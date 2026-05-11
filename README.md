@@ -14,4 +14,10 @@ prototipo, desarrollado en la herramienta Figma, permite simular el funcionamien
 aplicativo móvil orientado al control de inventarios, integrando funcionalidades como el
 registro, consulta, actualización, ventas y control de productos.
 _ _ _
-## INTEGRNATES
+## INTEGRANTES
+ - DUVAN DAVID RIZO
+ - JAMES ANCIZAR PATIÑO
+
+_ _ _
+
+##
