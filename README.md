@@ -78,7 +78,24 @@ disponibles, contribuyendo a un control más preciso y en tiempo real.
 ### Ventana de cobro
 En la ventada de cobrar se observa un resumen del total a cobrar, así como
 la cantidad que fue entregada y cuando sería el cambio.
+## Metodología de desarrollo
+a el desarrollo del sistema de control de inventarios se adopta la metodología ágil
+Scrum, la cual permite organizar el trabajo en iteraciones cortas, facilitando la
+construcción progresiva del prototipo y la validación continua de sus funcionalidades.
+En este proyecto, Scrum se implementa de manera conceptual, definiendo ciclos de
+trabajo (sprints) orientados al desarrollo de las principales funcionalidades del sistema.
+Definición de Sprints
+Se establecieron los siguientes sprints para el desarrollo del prototipo:
+Sprint 1 Diseño de la interfaz del sistema (pantallas principales en Figma)
+Sprint 2 Desarrollo del flujo de navegación del aplicativo
+Sprint 3 Implementación de funcionalidades (registro, consulta y actualización de
+productos)
+Sprint 4 Validación del prototipo y ajustes finales
+La implementación de esta metodología permitió estructurar el desarrollo del 54
+prototipo de manera organizada, asegurando que cada funcionalidad estuviera
+alineada con los requerimientos defin
 
+--- bash
 
 
 
