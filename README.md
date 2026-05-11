@@ -42,6 +42,44 @@ establecimiento, con el fin de validar la identidad del usuario.
 ### Pantalla de dinero o saldo en Caja
 Esta pantalla muestra el dinero disponible en caja al momento de iniciar
 sesión y antes de iniciar con las actividades
+###  Página de Inicio
+Esta pantalla centraliza las principales funcionalidades del sistema,
+permitiendo al usuario visualizar de forma organizada las opciones relacionadas con la
+gestión y control del inventario.
+### Página de Clientes
+En esta ventana se puede observar toda la información correspondiente a
+los clientes, revisar información de los existentes en el sistema o agregar nuevos clientes
+y el estado en el que se encuentra
+### Pagina Inventario
+Permite visualizar, agregar y/o modificar la información previamente
+registrada de los productos, permite lleva un control y garantizar que el inventario
+permanezca actualizado según las dinámicas del negocio.
+### Página de Productos
+La pantalla de registro permite ingresar nuevos productos al sistema
+mediante el diligenciamiento de información básica requerida para su almacenamiento y
+posterior gestión.
+### Página de Corte
+Esta sección permite realizar el cierre o consolidación del inventario en un
+periodo determinado, facilitando el control de los movimientos realizados dentro del
+sistema. Esta funcionalidad es útil para llevar un registro organizado de las operaciones,
+permitiendo al usuario tener una visión clara del estado del inventario en un momento
+específico.
+Asimismo, el corte contribuye a mejorar la administración del negocio, ya que permite
+identificar variaciones en las cantidades de productos y evaluar el comportamiento del
+inventario
+### Página de ventas de un producto
+ La pantalla de venta de productos permite registrar las transacciones
+realizadas dentro del negocio, integrando directamente la gestión del inventario con las
+operaciones de venta. A través de esta interfaz, el usuario puede seleccionar los productos
+disponibles y gestionar su salida del inventario de manera organizada.
+Esta funcionalidad es fundamental para mantener actualizado el inventario, ya que cada
+venta realizada genera una disminución automática en la cantidad de productos
+disponibles, contribuyendo a un control más preciso y en tiempo real.
+### Ventana de cobro
+En la ventada de cobrar se observa un resumen del total a cobrar, así como
+la cantidad que fue entregada y cuando sería el cambio.
+
+
 
 
 
