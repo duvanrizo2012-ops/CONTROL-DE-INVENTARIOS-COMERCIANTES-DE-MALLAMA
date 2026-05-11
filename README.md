@@ -95,7 +95,7 @@ La implementación de esta metodología permitió estructurar el desarrollo del 
 prototipo de manera organizada, asegurando que cada funcionalidad estuviera
 alineada con los requerimientos defin
 
---- bash
+```bash
 
 
 
