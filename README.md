@@ -29,3 +29,10 @@ Programa de Ingeniería de Sistemas
 Escuela de Ciencias Básicas Tecnología e Ingeniería
 
 MAYO 2026
+## FUNCIONAMIENTO DEL PROYECTO
+### Ventana de Acceso:
+El usuario selecciona la opción de ingreso para acceder al menú principal del sistema,
+iniciando la navegación dentro del aplicativo o seleccionar la opción de recuperar
+contraseña.
+
+
