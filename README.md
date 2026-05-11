@@ -79,7 +79,7 @@ disponibles, contribuyendo a un control más preciso y en tiempo real.
 En la ventada de cobrar se observa un resumen del total a cobrar, así como
 la cantidad que fue entregada y cuando sería el cambio.
 ## Metodología de desarrollo
-a el desarrollo del sistema de control de inventarios se adopta la metodología ágil
+Para el desarrollo del sistema de control de inventarios se adopta la metodología ágil
 Scrum, la cual permite organizar el trabajo en iteraciones cortas, facilitando la
 construcción progresiva del prototipo y la validación continua de sus funcionalidades.
 En este proyecto, Scrum se implementa de manera conceptual, definiendo ciclos de
