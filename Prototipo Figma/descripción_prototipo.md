@@ -17,6 +17,7 @@ contraseña.
 ## 2. Recuperar contraseña
 ### Interaccion:
 El usuario puede:
+
 • Ingresar su correo electrónico registrado
 
 • Digitar su número de celular
@@ -26,3 +27,21 @@ El usuario puede:
 • Presionar el botón “Aceptar” para iniciar el proceso de validación
 
 • Seleccionar la opción “Volver” para regresar a la pantalla anterio
+## 3. Pantalla de dinero o saldo en Caja
+### Interacción:
+El usuario puede visualizar cuanto dinero hay disponible en caja y al dar la opción de
+aceptar puede ingresar al menú principal del sistema.
+## 4. Página de Inicio
+### Interacción: Desde esta interfaz, el usuario puede navegar hacia:
+
+• Registro de productos
+
+• Consulta de Clientes
+
+• Consulta de inventario
+
+• Actualización de productos
+
+• Control general del inventario
+
+• Corte
