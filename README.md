@@ -13,5 +13,5 @@ diseño y desarrollo de un prototipo funcional que materializa la propuesta plan
 prototipo, desarrollado en la herramienta Figma, permite simular el funcionamiento de un
 aplicativo móvil orientado al control de inventarios, integrando funcionalidades como el
 registro, consulta, actualización, ventas y control de productos.
-_ _
-##
+_ _ _
+## INTEGRNATES
