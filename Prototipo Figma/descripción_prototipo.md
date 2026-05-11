@@ -8,9 +8,17 @@ los comerciantes del municipio de Mallama.
 Asimismo, el diseño está orientado a facilitar el control y gestión de productos,
 contribuyendo a mejorar la organización del inventario y apoyar la toma de decisiones
 dentro de los negocios.
-# Sesiones Diseñadas
+# Secciones Diseñadas
 ## 1.ventana Acceso
 ### Interaccion:
 El usuario selecciona la opción de ingreso para acceder al menú principal del sistema,
 iniciando la navegación dentro del aplicativo o seleccionar la opción de recuperar
-contraseña
+contraseña.
+## 2. Recuperar contraseña
+### Interaccion:
+El usuario puede:
+• Ingresar su correo electrónico registrado
+• Digitar su número de celular
+• Ingresar o solicitar el código del establecimiento
+• Presionar el botón “Aceptar” para iniciar el proceso de validación
+• Seleccionar la opción “Volver” para regresar a la pantalla anterio
