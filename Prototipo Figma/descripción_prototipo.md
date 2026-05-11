@@ -18,7 +18,11 @@ contraseña.
 ### Interaccion:
 El usuario puede:
 • Ingresar su correo electrónico registrado
+
 • Digitar su número de celular
+
 • Ingresar o solicitar el código del establecimiento
+
 • Presionar el botón “Aceptar” para iniciar el proceso de validación
+
 • Seleccionar la opción “Volver” para regresar a la pantalla anterio
