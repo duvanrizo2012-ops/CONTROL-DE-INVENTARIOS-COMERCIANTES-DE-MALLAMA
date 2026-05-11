@@ -34,5 +34,15 @@ MAYO 2026
 El usuario selecciona la opción de ingreso para acceder al menú principal del sistema,
 iniciando la navegación dentro del aplicativo o seleccionar la opción de recuperar
 contraseña.
+### Recuperar contraseña
+La opción de recuperación de contraseña permite al usuario restablecer el
+acceso al sistema en caso de haber olvidado sus credenciales. En esta interfaz se solicitan
+datos básicos como el correo electrónico, número de celular y el código del
+establecimiento, con el fin de validar la identidad del usuario.
+### Pantalla de dinero o saldo en Caja
+Esta pantalla muestra el dinero disponible en caja al momento de iniciar
+sesión y antes de iniciar con las actividades
+
+
 
 
