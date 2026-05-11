@@ -45,3 +45,52 @@ aceptar puede ingresar al menú principal del sistema.
 • Control general del inventario
 
 • Corte
+## 5. Página de Clientes
+### Interacción:
+En esta interfaz el usuario puede acceder a las opciones de agregar nuevo cliente,
+modificar la información del cliente, eliminar un cliente y ver el estado del cliente, así
+mismo tiene las opciones de regresar al menú de inicio.
+## 6. Pagina Inventario
+### El usuario consulta los productos existentes dentro del inventario y verifica cantidades o
+estado actual del inventario, tiene la opción de agregar productos al inventario y realizar
+reportes
+## 7. Página de Productos 
+### Interacción: El usuario puede:
+
+• Ingresar nombre del producto
+
+• Registrar cantidad disponible
+
+• Guardar la información del producto dentro del inventario
+
+El usuario diligencia los campos requeridos, registra la información del producto y
+guarda los datos en el inventario.
+## 8. Página de Corte
+### Interacción: El usuario puede:
+
+• Generar un corte del inventario en el momento requerido
+
+• Visualizar el resumen de productos y cantidades
+
+• Confirmar el registro del corte realizado
+
+• Consultar información consolidada del estado del inventario
+##  9. Página de ventas de un producto
+### Interacción: El usuario puede:
+
+• Seleccionar uno o varios productos del inventario
+
+• Ingresar la cantidad a vender
+
+• Registrar la venta realizada
+
+• Visualizar el total de la transacción (si aplica en tu prototipo)
+
+• Confirmar la operación, generando la actualización automática del inventario
+##  10. Ventana de cobro 
+### Interacción: El usuario puede revisar nuevamente que las cantidades estén correctas y al
+validar ya puede dar en la opción de cobrar para ejecutar la venta o en el caso contrario
+puede darle en cancelar.
+_ _ _
+
+
