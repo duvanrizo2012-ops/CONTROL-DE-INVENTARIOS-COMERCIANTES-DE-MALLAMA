@@ -1,6 +1,6 @@
 # CONTROL DE INVENTARIOS COMERCIANTES DE MALLAMA
 
-##DESCRIPCION DEL PROYECTO
+## DESCRIPCION DEL PROYECTO
 El presente proyecto tiene como finalidad dar solución a la problemática
 identificada en los comerciantes del municipio de Mallama, relacionada con la deficiente
 gestión y control de inventarios, la cual genera desorganización, pérdidas económicas y
